@@ -76,16 +76,10 @@
     "buttonUrl": "#bai-hat",
     "items": [
       {
-        "name": "Hồng Anh",
-        "role": "Ca sĩ",
-        "image": "assets/ca-si-hong-anh.jpg",
-        "alt": "Hồng Anh"
-      },
-      {
-        "name": "Phương Y",
+        "name": "Phương Ý",
         "role": "Ca sĩ",
         "image": "assets/ca-si-phuong-y.jpg",
-        "alt": "Phương Y"
+        "alt": "Phương Ý"
       },
       {
         "name": "Trần Anh Tiến",
@@ -94,16 +88,22 @@
         "alt": "Trần Anh Tiến"
       },
       {
-        "name": "Chill Band",
-        "role": "Ban nhạc",
-        "image": "assets/chill-band-1.jpg",
-        "alt": "Chill Band"
+        "name": "Hồng Anh",
+        "role": "Ca sĩ",
+        "image": "assets/ca-si-hong-anh.jpg",
+        "alt": "Hồng Anh"
       },
       {
         "name": "Phương Liên",
         "role": "Dẫn chương trình",
         "image": "assets/mc-phuong-lien.jpg",
         "alt": "Phương Liên"
+      },
+      {
+        "name": "Chill Band",
+        "role": "Ban nhạc",
+        "image": "assets/chill-band-1.jpg",
+        "alt": "Chill Band"
       }
     ]
   },
