@@ -43,7 +43,7 @@
   ],
   "hero": {
     "enabled": true,
-    "backgroundImage": "assets/music-crowd.jpg",
+    "backgroundImage": "assets/anh-hero-chim.jpg",
     "bannerImage": "assets/banner-tram-am-nhac-cho-djong-ben-ho.png",
     "bannerAlt": "Trạm âm nhạc số 4 - Chờ đông: Tìm về hơi ấm ngày xưa",
     "eventTime": "20:10",
@@ -64,8 +64,8 @@
     "headline": "Đi qua những mùa mong nhớ",
     "paragraph1": "“Chờ đông” là hành trình cảm xúc qua những tình khúc Bolero ngọt ngào, sâu lắng, đưa khán giả trở về với rung động đầu đời, đi qua những mùa mong nhớ, nỗi buồn xa cách và tìm lại hơi ấm của tình yêu. Mùa đông vừa là không gian gợi nhớ, vừa là hình ảnh xuyên suốt, đánh thức những kỷ niệm tưởng đã ngủ yên trong lòng mỗi người.",
     "paragraph2": "“Chờ đông” gửi gắm niềm tin rằng: Dù trải qua xa cách, tổn thương hay những thăng trầm cuộc đời, con người vẫn luôn mong được lắng nghe, sẻ chia và yêu thương. Có những kỷ niệm để gìn giữ, những nỗi buồn cần giãi bày và những mối duyên đáng được trân trọng. Khi biết mở lòng, ta có thể tìm thấy hơi ấm trong sự đồng cảm và niềm vui từ những điều bình dị bên nhau. Để trong giá lạnh của mùa đông, yêu thương là nơi ta tìm về",
-    "videoTitle": "Trailer Trạm âm nhạc số 3",
-    "youtubeUrl": "https://www.youtube.com/watch?v=LkzjWQVR100"
+    "videoTitle": "Trailer Trạm âm nhạc số 4: Chờ đông",
+    "youtubeUrl": "https://www.youtube.com/watch?v=Mzh8CvqXqMQ"
   },
   "singers": {
     "enabled": true,
