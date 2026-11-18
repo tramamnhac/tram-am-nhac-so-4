@@ -1,6 +1,6 @@
 {
-  "siteTitle": "Trạm Âm nhạc số 3 – Mơ về nơi xa lắm",
-  "metaDescription": "Chương trình âm nhạc Trạm âm nhạc số 3 - Mơ về nơi xa lắm tại Thanh Hóa.",
+  "siteTitle": "Trạm Âm nhạc số 4 – Chờ đông",
+  "metaDescription": "Chương trình âm nhạc Trạm âm nhạc số 4 với chủ đề \"Chờ đông\" được tổ chức tại Sân khấu bên hồ - Báo và Phát thanh, truyền hình Thanh Hóa, Live Acoustic Session - Livestreams trên các nển tảng số.",
   "theme": {
     "background": "#080710",
     "panel": "#11101c",
@@ -43,8 +43,8 @@
   ],
   "hero": {
     "enabled": true,
-    "backgroundImage": "assets/hero-background.jpg",
-    "bannerImage": "assets/hero-banner.jpg",
+    "backgroundImage": "assets/music-crowd.jpg",
+    "bannerImage": "assets/banner-tram-am-nhac-cho-djong-ben-ho.png",
     "bannerAlt": "Trạm âm nhạc số 3 – Mơ về nơi xa lắm",
     "eventTime": "20:10",
     "eventDate": "2026-10-23T20:10:00+07:00",
@@ -61,9 +61,9 @@
     "title": "Chương trình",
     "description": "Trạm Âm nhạc số 3 với chủ đề “Mơ về nơi xa lắm”",
     "subEyebrow": "Điểm hẹn cảm xúc",
-    "headline": "Thăng hoa cùng những sắc màu hoài niệm",
-    "paragraph1": "Một cuộc hẹn với âm nhạc Phú Quang, một chuyến trở về với tình yêu, với Hà Nội và những miền ký ức không phai. Để giữa những bộn bề của hiện tại, ta có thể chậm lại một chút… lắng nghe lòng mình, nhớ về một người, một nơi, một thời đã cũ…và những điều tưởng đã xa xôi!",
-    "paragraph2": "Chương trình là điểm hẹn dành cho khán giả yêu âm nhạc và những cảm xúc chân thành.",
+    "headline": "Đi qua những mùa mong nhớ",
+    "paragraph1": "“Chờ đông” là hành trình cảm xúc qua những tình khúc Bolero ngọt ngào, sâu lắng, đưa khán giả trở về với rung động đầu đời, đi qua những mùa mong nhớ, nỗi buồn xa cách và tìm lại hơi ấm của tình yêu. Mùa đông vừa là không gian gợi nhớ, vừa là hình ảnh xuyên suốt, đánh thức những kỷ niệm tưởng đã ngủ yên trong lòng mỗi người.",
+    "paragraph2": "“Chờ đông” gửi gắm niềm tin rằng: Dù trải qua xa cách, tổn thương hay những thăng trầm cuộc đời, con người vẫn luôn mong được lắng nghe, sẻ chia và yêu thương. Có những kỷ niệm để gìn giữ, những nỗi buồn cần giãi bày và những mối duyên đáng được trân trọng. Khi biết mở lòng, ta có thể tìm thấy hơi ấm trong sự đồng cảm và niềm vui từ những điều bình dị bên nhau. Để trong giá lạnh của mùa đông, yêu thương là nơi ta tìm về",
     "videoTitle": "Trailer Trạm âm nhạc số 3",
     "youtubeUrl": "https://www.youtube.com/watch?v=LkzjWQVR100"
   },
@@ -76,34 +76,33 @@
     "buttonUrl": "#bai-hat",
     "items": [
       {
-        "name": "Hoàng Nhật Minh",
+        "name": "Hồng Anh",
         "role": "Ca sĩ",
-        "image": "assets/hoanh-nhat-minh.jpg",
-        "alt": "Ảnh Hoành Nhật Minh"
+        "image": "assets/ca-si-hong-anh.jpg",
+        "alt": "Hồng Anh"
       },
       {
-        "name": "Công Đại",
+        "name": "Phương Y",
         "role": "Ca sĩ",
-        "image": "assets/cong-dai.jpg",
-        "alt": "Ảnh Công Đại"
+        "image": "assets/ca-si-phuong-y.jpg",
+        "alt": "Phương Y"
       },
       {
-        "name": "Như Quỳnh",
+        "name": "Trần Anh Tiến",
         "role": "Ca sĩ",
-        "image": "assets/nhu-quynh.jpg",
-        "alt": "Ảnh Như Quỳnh"
-      },
-      {
-        "name": "Huệ Anh",
-        "role": "Ca sĩ",
-        "image": "assets/hue-anh.jpg",
-        "alt": "Ảnh Huệ Anh"
+        "alt": "Trần Anh Tiến"
       },
       {
         "name": "Chill Band",
-        "role": "Nhóm nhạc",
-        "image": "assets/chill-band.jpg",
-        "alt": "Ảnh Chill Band"
+        "role": "Ban nhạc",
+        "image": "assets/chill-band-1.jpg",
+        "alt": "Chill Band"
+      },
+      {
+        "name": "Phương Liên",
+        "role": "Dẫn chương trình",
+        "image": "assets/mc-phuong-lien.jpg",
+        "alt": "Phương Liên"
       },
       {
         "name": "Thùy Dung",
@@ -122,43 +121,64 @@
         "title": "Hà Nội và em khi thu chớm đông sang"
       },
       {
-        "title": "Im lặng đêm Hà Nội"
+        "title": "Ngày Không Em"
       },
       {
-        "title": "Em ơi Hà Nội phố"
+        "title": "Đêm Tâm Sự"
       },
       {
-        "title": "Hà Nội ngày trở về"
+        "title": "Áo Hoa"
       },
       {
-        "title": "Nỗi nhớ mùa đông"
+        "title": "Chờ Đông"
       },
       {
-        "title": "Một dại khờ, một tôi"
+        "title": "Giận Hờn"
       },
       {
-        "title": "Biển, nỗi nhớ và em"
+        "title": "Tuổi nàng 15"
       },
       {
-        "title": "Thương lắm tóc dài ơi"
+        "title": "LK Phút cuối – Định mệnh – Thao thức vì em"
       },
       {
-        "title": "Mơ về nơi xa lắm"
+        "title": "Hai mùa mưa"
       },
       {
-        "title": "Khúc mùa thu"
+        "title": "Tương tư nàng ca sĩ"
       },
       {
-        "title": "Đâu phải bởi mùa thu"
+        "title": "Chiếc lá mùa đông"
       },
       {
-        "title": "Mùa thu giấu em"
+        "title": "Thư tình em gái"
       },
       {
-        "title": "Về lại phố xưa"
+        "title": "Tình như lá bay xa"
       },
       {
-        "title": "Điều giản dị"
+        "title": "Kiếp nghèo"
+      },
+      {
+        "title": "Tình vỡ vỡ"
+      },
+      {
+        "title": "Gõ cửa trái tim"
+      },
+      {
+        "title": "Tình thắm duyên quê"
+      },
+      {
+        "title": "Biển tình"
+      },
+      {
+        "title": "Ga chiều phố nhỏ"
+      },
+      {
+        "title": "Mùa đông của anh"
+      },
+      {
+        "title": "Nối lại tình xưa"
       }
     ],
     "linksTitle": "Xem thêm",
@@ -188,21 +208,18 @@
   "footer": {
     "enabled": true,
     "brandTitle": "Báo và Phát thanh, truyền hình Thanh Hóa",
-    "tagline": "Trạm Âm nhạc số 3 – Mơ về nơi xa lắm",
-    "description": "Một đêm nhạc của những giai điệu và cảm xúc.",
+    "tagline": "Trạm Âm nhạc số 4 - Chờ đông",
+    "description": "Tìm về hơi ấm ngày xưa",
     "copyright": "© 2026 Báo và Phát thanh, truyền hình Thanh Hóa. Bảo lưu mọi quyền."
   },
   "sponsors": {
     "enabled": true,
     "eyebrow": "Đồng hành cùng chương trình",
     "title": "Nhà tài trợ",
-    "description": "",
     "items": [
       {
         "name": "Nhà tài trợ",
-        "logo": "",
         "alt": "Logo nhà tài trợ",
-        "caption": "",
         "enabled": true
       }
     ]
