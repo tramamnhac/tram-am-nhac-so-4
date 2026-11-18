@@ -213,8 +213,9 @@
     "title": "Nhà tài trợ",
     "items": [
       {
-        "name": "Nhà tài trợ",
-        "alt": "Logo nhà tài trợ",
+        "name": "Vietcombank Chi nhánh Thanh Hóa",
+        "logo": "assets/logo-vcb.jpg",
+        "alt": "Vietcombank Chi nhánh Thanh Hóa",
         "enabled": true
       }
     ]
