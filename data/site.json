@@ -45,7 +45,7 @@
     "enabled": true,
     "backgroundImage": "assets/music-crowd.jpg",
     "bannerImage": "assets/banner-tram-am-nhac-cho-djong-ben-ho.png",
-    "bannerAlt": "Trạm âm nhạc số 3 – Mơ về nơi xa lắm",
+    "bannerAlt": "Trạm âm nhạc số 4 - Chờ đông: Tìm về hơi ấm ngày xưa",
     "eventTime": "20:10",
     "eventDate": "2026-10-23T20:10:00+07:00",
     "countdownLabel": "ĐẾM NGƯỢC ĐẾN CHƯƠNG TRÌNH",
@@ -59,7 +59,7 @@
     "menuLabel": "Giới thiệu",
     "eyebrow": "Giới thiệu",
     "title": "Chương trình",
-    "description": "Trạm Âm nhạc số 3 với chủ đề “Mơ về nơi xa lắm”",
+    "description": "Trạm Âm nhạc số 4 - Chờ đông: Tìm về hơi ấm ngày xưa",
     "subEyebrow": "Điểm hẹn cảm xúc",
     "headline": "Đi qua những mùa mong nhớ",
     "paragraph1": "“Chờ đông” là hành trình cảm xúc qua những tình khúc Bolero ngọt ngào, sâu lắng, đưa khán giả trở về với rung động đầu đời, đi qua những mùa mong nhớ, nỗi buồn xa cách và tìm lại hơi ấm của tình yêu. Mùa đông vừa là không gian gợi nhớ, vừa là hình ảnh xuyên suốt, đánh thức những kỷ niệm tưởng đã ngủ yên trong lòng mỗi người.",
@@ -90,6 +90,7 @@
       {
         "name": "Trần Anh Tiến",
         "role": "Ca sĩ",
+        "image": "assets/ca-si-tran-anh-tien.jpg",
         "alt": "Trần Anh Tiến"
       },
       {
@@ -103,12 +104,6 @@
         "role": "Dẫn chương trình",
         "image": "assets/mc-phuong-lien.jpg",
         "alt": "Phương Liên"
-      },
-      {
-        "name": "Thùy Dung",
-        "role": "Dẫn chương trình",
-        "image": "assets/thuy-dung.jpg",
-        "alt": "Ảnh Thùy Dung"
       }
     ]
   },
